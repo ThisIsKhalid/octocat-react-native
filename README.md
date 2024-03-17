@@ -2,4 +2,4 @@
 
 ## Assignment 1
 
-![Octocat](./assets/octocat.png)
+<img src="./assets/octocat.png" width="200">
