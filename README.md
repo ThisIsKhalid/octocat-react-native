@@ -2,4 +2,4 @@
 
 ## Assignment 1
 
-<img src="./assets/octocat.png" width="200">
+<img src="./assets/octocat.png" width="300">
